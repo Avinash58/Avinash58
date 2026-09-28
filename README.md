@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Civic Connect**
+- 🔭 I’m currently working on **AI city search engine**
 
-- 🌱 I’m currently learning **C,C++,Python,Java**
+- 🌱 I’m currently learning **Python,C,C++**
 
 - 👯 I’m looking to collaborate on **Project**
 
